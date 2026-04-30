@@ -11,10 +11,11 @@ body {
   align-items: center;
   text-align: center;
   background-color: rgba(157, 157, 142, 0.587);
+  overflow-x: hidden;
 }
 
 #Main-header {
-  width: 100%;
+  width: 110%;
   background-color: #f0f0f0;
   display: flex;
   flex-direction: column;
